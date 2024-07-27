@@ -103,3 +103,32 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### List of Contributions from Encapsulate [Encapsulate (formerly KingSuper)](https://encapsulate.xyz/)
+### Services
+#### Snapshots
+
+#### Public RPC/LCD/gRPC
+| Service | URL |
+|---------|-----|
+| **RPC** | [`celestia-mainnet-rpc.kingsuper.services`](https://celestia-mainnet-rpc.kingsuper.services/) |
+| **LCD** | [`celestia-mainnet-lcd.kingsuper.services`](https://celestia-mainnet-lcd.kingsuper.services/) |
+| **gRPC** | [`celestia-mainnet-grpc.kingsuper.services`](https://celestia-mainnet-grpc.kingsuper.services/) |
+
+
+##### Mainnet
+| **Snapshot** | URL |
+|--------------|-----|
+| **Celestia Bridge Mainnet** | [https://encapsulate.xyz/snapshots/celestia-bridge-mainnet](https://encapsulate.xyz/snapshots/celestia-bridge-mainnet) |
+| **Celestia App Mainnet** | [https://encapsulate.xyz/snapshots/celestia-app-mainnet](https://encapsulate.xyz/snapshots/celestia-app-mainnet) |
+
+##### Testnet
+| **Snapshot** | URL |
+|--------------|-----|
+| **Celestia Bridge Testnet** | [https://encapsulate.xyz/snapshots/celestia-bridge-testnet](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
+
+### Community
+| **Service** | URL |
+|-------------|-----|
+| **Submit Pay for Blob** | [https://celestia-pfb.kingsuper.services/](https://celestia-pfb.kingsuper.services/) |
+| **Light Node Health Checker** | [https://celestia-node-checker.kingsuper.services/](https://celestia-node-checker.kingsuper.services/) |

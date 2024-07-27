@@ -102,12 +102,6 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/CelestiaBrazil)
 
-## Node operator contributions
-
-Got it. Here’s the updated version with the URLs in square brackets, without the `http` from the text:
-
----
-
 ## Node Operator Contributions
 
 ### List of Contributions from [Encapsulate (fka KingSuper)](https://encapsulate.xyz/)

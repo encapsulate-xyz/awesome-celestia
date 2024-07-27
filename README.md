@@ -104,9 +104,15 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+Got it. Here’s the updated version with the URLs in square brackets, without the `http` from the text:
+
+---
+
+## Node Operator Contributions
+
 ### List of Contributions from Encapsulate [Encapsulate (formerly KingSuper)](https://encapsulate.xyz/)
+
 ### Services
-#### Snapshots
 
 #### Public RPC/LCD/gRPC
 | Service | URL |
@@ -115,20 +121,21 @@ An Awesome List of Celestia Resources
 | **LCD** | [`celestia-mainnet-lcd.kingsuper.services`](https://celestia-mainnet-lcd.kingsuper.services/) |
 | **gRPC** | [`celestia-mainnet-grpc.kingsuper.services`](https://celestia-mainnet-grpc.kingsuper.services/) |
 
-
+### Snapshots
 ##### Mainnet
 | **Snapshot** | URL |
 |--------------|-----|
-| **Celestia Bridge Mainnet** | [https://encapsulate.xyz/snapshots/celestia-bridge-mainnet](https://encapsulate.xyz/snapshots/celestia-bridge-mainnet) |
-| **Celestia App Mainnet** | [https://encapsulate.xyz/snapshots/celestia-app-mainnet](https://encapsulate.xyz/snapshots/celestia-app-mainnet) |
+| **Celestia Bridge Mainnet** | [`celestia-bridge-mainnet`](https://encapsulate.xyz/snapshots/celestia-bridge-mainnet) |
+| **Celestia App Mainnet** | [`celestia-app-mainnet`](https://encapsulate.xyz/snapshots/celestia-app-mainnet) |
 
 ##### Testnet
 | **Snapshot** | URL |
 |--------------|-----|
-| **Celestia Bridge Testnet** | [https://encapsulate.xyz/snapshots/celestia-bridge-testnet](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
+| **Celestia Bridge Testnet** | [`celestia-bridge-testnet`](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
 
 ### Community
 | **Service** | URL |
 |-------------|-----|
-| **Submit Pay for Blob** | [https://celestia-pfb.kingsuper.services/](https://celestia-pfb.kingsuper.services/) |
-| **Light Node Health Checker** | [https://celestia-node-checker.kingsuper.services/](https://celestia-node-checker.kingsuper.services/) |
+| **Submit Pay for Blob** | [`celestia-pfb.kingsuper.services`](https://celestia-pfb.kingsuper.services/) |
+| **Light Node Health Checker** | [`celestia-node-checker.kingsuper.services`](https://celestia-node-checker.kingsuper.services/) |
+

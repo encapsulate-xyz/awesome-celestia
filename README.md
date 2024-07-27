@@ -128,7 +128,7 @@ An Awesome List of Celestia Resources
 | **Celestia Bridge Testnet** | [`celestia-bridge-testnet`](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
 
 ### Community
-| **Service** | URL |
+| **Tools** | URL |
 |-------------|-----|
 | **Submit Pay for Blob** | [`celestia-pfb.kingsuper.services`](https://celestia-pfb.kingsuper.services/) |
 | **Light Node Health Checker** | [`celestia-node-checker.kingsuper.services`](https://celestia-node-checker.kingsuper.services/) |

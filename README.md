@@ -110,7 +110,7 @@ Got it. Here’s the updated version with the URLs in square brackets, without t
 
 ## Node Operator Contributions
 
-### List of Contributions from [Encapsulate (formerly KingSuper)](https://encapsulate.xyz/)
+### List of Contributions from [Encapsulate (fka KingSuper)](https://encapsulate.xyz/)
 
 ### Services
 

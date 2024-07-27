@@ -102,7 +102,7 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/CelestiaBrazil)
 
-## Node Operator Contributions
+## Node operator contributions
 
 ### List of Contributions from [Encapsulate (fka KingSuper)](https://encapsulate.xyz/)
 
